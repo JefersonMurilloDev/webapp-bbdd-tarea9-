@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/db_name?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true&useUnicode=true&characterEncoding=utf8
+db.username=root
+db.password=admin
